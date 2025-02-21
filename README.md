@@ -8,13 +8,13 @@ The objective was to understand historical and current trends, predict future st
 
 ## 👥 Team Members
 
+Thanh Trung Nguyen (Me)
+
 Jonathon De Botton
 
 Matthew Brown
 
 Oscar He
-
-Thanh Trung (Daniel) Nguyen (My Role)
 
 Aran Yaseen
 
