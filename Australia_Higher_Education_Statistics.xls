@@ -1,0 +1,19 @@
+<HTML><HEAD><STYLE type="text/css">table { margin: 1em; border-collapse: collapse; }.columnHeader { font-weight: bold; text-align: center; }td { padding: .3em; border: 1px #ccc solid;  text-align: right;}.cellLeftAlign { padding: .3em; border: 1px #ccc solid;  vertical-align: middle; text-align: left; font-weight: bold;}</STYLE></HEAD><BODY><H2>Enrolment Count by Citizenship Category ()</H2><table>
+	<thead oncontextmenu="processMenuolapClientGrid(event, I_olapClientGrid,0)">
+		<tr>
+			<td><div>
+
+			</div></td><td colspan="1" rowspan="1"><div class='columnHeader' title="Measures, MeasuresLevel" dmn="0">
+				Enrolment Count
+			</div></td>
+		</tr>
+	</thead><tbody>
+		<tr>
+			<td class='cellLeftAlign' colspan="1" rowspan="1">Domestic</td><td>1,086,050</td>
+		</tr><tr>
+			<td class='cellLeftAlign' colspan="1" rowspan="1">Overseas</td><td>523,748</td>
+		</tr><tr>
+			<td class='cellLeftAlign' colspan="1" rowspan="1" total="1">Total</td><td total="1">1,609,798</td>
+		</tr>
+	</tbody>
+</table><P><OL><li>Source: Department of Education, Skills and Employment - Higher Education Statistics Data Cube (uCube) which is based on the student and staff data collections.</li><li>The data cube does allow customised tables to be produced with cells containing very small counts. To avoid any risk of disseminating identifiable data, a disclosure control technique called input perturbation has been applied to the data, with the exception of grand totals, whereby small random adjustments are made to cell counts. These adjustments (otherwise known as noise) allow for a greater amount of detailed data to be released and, as such, do not significantly impair the utility of the tabular data for use in broad level analysis. However, the relative impact of perturbation is larger for small cell counts, which therefore should be used with caution. Where unperturbed figures are required, users should consult the Higher Education Statistics published on the department's website.</li><li>For Field of Education: The data takes into account the coding of Combined Courses to two fields of education. As a consequence, counting both fields of education for Combined Courses means that the totals may be less than the sum of all broad fields of education.</li></OL></P></BODY></HTML>
